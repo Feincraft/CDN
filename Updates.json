@@ -6,5 +6,13 @@
 		"Mandatory": "false",
 		"Path": "https://feincraft.files.wordpress.com/2023/03/feinpilot704.zip",
 		"Level": 705
-	}
+	},
+	{
+		"App": "Feinpilot",
+		"Version": "0.7",
+		"Notes": "",
+		"Mandatory": "false",
+		"Path": "https://feincraft.files.wordpress.com/2023/03/feinpilot707.zip",
+		"Level": 707
+	}		
 ]
