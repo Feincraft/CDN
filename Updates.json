@@ -14,5 +14,13 @@
 		"Mandatory": "false",
 		"Path": "https://feincraft.files.wordpress.com/2023/03/feinpilot707-4.zip",
 		"Level": 707
-	}		
+	},
+	{
+		"App": "Feinpilot",
+		"Version": "0.8",
+		"Notes": " ",
+		"Mandatory": "false",
+		"Path": "https://feincraft.blob.core.windows.net/feinpilot-packages/Feinpilot800.zip",
+		"Level": 800
+	}
 ]
